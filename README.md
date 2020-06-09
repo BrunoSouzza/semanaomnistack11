@@ -11,4 +11,4 @@ Visa conectar as pessoas que querem contribuir com ONG's que ajudam diversas cau
 * [Expo](https://expo.io/)
 * [SQLite](https://www.sqlite.org/index.html)
 
-### Projeto desenvolvido a partir da Semana Onmistack 11 realizada pela equipe da [Rockeseat](https://github.com/Rocketseat).
+### Projeto desenvolvido - Semana Onmistack 11 realizada pela equipe da [Rockeseat](https://github.com/Rocketseat).
